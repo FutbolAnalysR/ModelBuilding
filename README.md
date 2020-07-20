@@ -2,6 +2,16 @@
 
 The purpose of this repository is to practice building models using football event data from StatsBomb using both R and Python. This models will be recreations of those already found online and maybe an attempt at creating our own player evaluation framework. 
 
+## Helpful Articles
+
+Here are a couple of helpful articles for obtaining StatsBomb data using R or Python.
+
+Title | Link
+------|------
+Importing StatsBomb Data in R | [Blog Post](https://futbolanalysr.rbind.io/post/importing-statsbomb-data-in-to-r/)
+Installing the StatsBomb Python Library | [Blog Post](https://futbolanalysr.rbind.io/post/statsbomb-python-library/)
+Doing More with StatsBomb in R | [StatsBomb Website](https://statsbomb.com/2020/07/doing-more-with-statsbomb-data-in-r/)
+
 ## Models to be created
 
 ### Expected Goals
